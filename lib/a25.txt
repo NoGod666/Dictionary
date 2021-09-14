@@ -1,0 +1,1000 @@
+pub%taberna%cervecería%bar
+pubarche%pubarquia
+puberty%pubertad
+pubescence%pubescencia%pubertad
+pubescent%púber
+pubic hair%vello púbico
+public%publico%concurrencia%público
+publican%tabernero%hostelero
+publication%promulgación%edición%publicación
+public building%edificio público
+public health%salud pública
+public house%taberna%posada
+public institution%institución pública
+public international law%derecho internacional público
+publicist%publicista
+publicity%reclamo%publicidad
+public law%derecho público
+public library%biblioteca pública
+public opinion%opinión pública
+public park%parque público
+public phone%teléfono público
+public prosecutor%fiscal
+public sector%sector público
+public service%servicio público
+public transport%transporte público
+publish%editar%divulgar%promulgar%publicar
+published%publicado
+publisher%editor
+publishes%publica
+publishing%publicación
+publishing house%casa editorial%editorial
+puck%duende%disco
+pucker%arruga%arrugar%frunce%plegar%pliegue
+pudding%budín%postre
+puddle%poza%pudelar%charco
+pudgy%rechoncho
+puerile%pueril
+puerility%puerilidad
+puerperium%puerperio
+Puerto%Puerto
+puff%resoplar%borla%jadear%echar humo%acezar%bombear%bocanada%soplar%soplo
+puffed%hinchado
+puff pastry%hojaldre
+puff up%hinchar
+puffy%campanudo%hinchado
+pug%arcilla%amasar
+pugilism%pugilato
+pugilist%pugilista%púgil
+pugnacious%belicoso
+pugnacity%belicosidad%pugnacidad
+puissant%poderoso
+puke%vomitar
+puking%vomitando
+pukka%legítimo%auténtico
+pule%gimotear
+Pulitzer Prize%Premio Pulitzer
+pull%sofrenada%halar%remolcar%chupada%jalar%tracción%tiento%remar%estirar%trago%tirón%apretar%sacudida%palanca%arrastrar%arrastre%atracción%tirar%atraer%extraer%sacar%influencia
+pull down%derrocar%derribar%bajar
+pulley%garrucha%polea%carrillo
+pull in%entrar
+pulling%tracción
+pull off%quitar
+pull out%estirar%arrancar%extraer%salir
+pull-out%sacar%retirarse
+pullout%suplemento%desprendible
+pullover%jersey
+pull up%pararse%detenerse%parar
+pull-up%tirante%dominada%entrenador
+pulmonary%pulmonar
+pulmonary artery%arteria pulmonar
+pulmonary valve%válvula pulmonar
+pulmonology%neumología
+pulp%pulpa%pasta
+pulpit%púlpito%tribuna
+pulpy%mollar%pulposo
+pulsate%vibrar%latir%palpitar%pulsar
+pulsation%pulsación%latido%vibración
+pulse%pulsación%latir%latido%pulso%impulso
+pulse oximetry%oximetría de pulso
+pultrusion%pultrusión
+pulverization%pulverización
+pulverize%moler%pulverizar%machacar
+puma%puma%león
+pumice%piedra pómez
+pump%surtidor%sonsacar%bombear%hinchar%pompa%bomba%sacar
+pumping%bombeo
+pumpkin%calabaza%calabacera
+pumpkin pie%pastel de calabaza
+pun%juego de palabras%retruécano%equívoco
+punch%punzón%taladrar%ponche%sacabocados%perforar%pegada%picar%golpear
+puncheon%punzón
+puncher%sacabocados
+punctilious%puntilloso%meticuloso
+punctual%puntual%exacto
+punctuality%puntualidad%exactitud
+punctuate%acentuar%recalcar
+punctuation%puntuación
+puncture%punción%puntura%agujerear%perforar%pinchar%picar%pinchazo%perforación%picadura
+punctured%pinchado%perforado
+pungency%picante%mordacidad%acrimonia%acritud%agudeza
+pungent%picante%pungente%punzante%acre%mordaz%penetrante%agudo%vivo
+pungently%mordazmente%con mordacidad
+punish%penar%castigar
+punishable%delictivo
+punishment%escarmiento%castigo
+punitive%punitivo
+punning%haciendo juego de palabras
+punt%batea%apuntar%apostar
+puny%diminuto%endeble
+pup%cachorro
+pupa%crisálida%ninfa
+pupil%pupila%discípulo%educando%alumno
+pupilage%pupilaje%minoría
+pupillage%pupilaje%minoría
+puppet%muñeco%marioneta%fantoche%títere
+puppeteer%titiritero
+puppy%petimetre%cachorro
+Purcell%Purcell
+purchase%agarre%procurarse%adquirir%comprar%compra%adquisición
+purchased%comprado
+purchaser%comprador%cliente
+purchasing%adquisitivo
+purchasing power%poder adquisitivo
+purdah%reclusión
+Purdue%Purdue
+pure%casto%mondo%puro%limpio
+puree%puré
+purely%puramente
+purer%más puro
+pure research%investigación pura
+purest%el más puro
+purgation%purgamiento%purgación
+purgative%purgativo%purgante
+purgatory%purgatorio
+purge%purga%purgante%purgar%purificar%depurar%depuración%limpiar
+purged%purgado%desechado
+purification%purificación%depuración
+purifier%purificador%depurador
+purify%acendrar%acrisolar%apurar%purgar%purificar%depurar%limpiar
+purifying%purificación
+purist%purista
+puritan%puritano
+puritanic%puritano
+puritanical%puritano
+puritanism%puritanismo
+purity%pureza%limpieza%virtud
+purloin%hurtar%substraer%robar
+purple%morado
+purport%tenor%significar%significado%intención%sentido
+purpose%conato%designio%mira%finalidad%destino%propósito%intentar%intención%objeto%efecto%fin
+purposeful%resuelto%determinado%decidido%útil
+purposefulness%decisión
+purposeless%inútil
+purposive%útil
+purr%ronroneo%ronronear
+purred%ronroneó%ronroneado
+purse%portamonedas%bolso%monedero%bolsillo%bolsa%cartera%premio%dinero
+purser%contador
+pursuance%prosecución%persecución%seguimiento
+pursuant to%según
+pursue%acosar%cazar%perseguir%proseguir%ejercer%continuar%seguir
+pursuer%perseguidor
+pursuit%perseguimiento%acosamiento%pasatiempo%caza%profesión%persecución%ocupación%seguimiento%actividad
+pursy%obeso%asmático
+purulence%purulencia%pus
+purulent%purulento
+purvey%abastecer%proveer%suministrar
+purveyance%provisión%abastecimiento%suministro
+purveyor%abastecedor%proveedor
+purview%alcance%competencia
+pus%podre%pus%materia
+push%impeler%empellar%acometividad%pechar%embestida%apresurar%enchufe%apremiar%oprimir%apretar%aprieto%empujón%empujar%empuje%estrechar%ofensiva%presionar%impulsar%avance%trabajar%esfuerzo
+push away%apartar
+push back%empujar%rechazar
+push down%apretar
+pusher%arribista
+pushful%pujante%emprendedor%enérgico
+pushing%empuje%empujando%emprendedor
+push off%desatracar%largarse
+push on%continuar
+push up%levantar
+pusillanimity%pusilanimidad
+pusillanimous%pusilánime
+puss%gato
+pussies%coños%cobardes%gatitos
+pussy%gatito%coño
+pustule%pústula
+put%acostar%ubicar%estimar%meter%mandar%traducir%situar%sentar%orientar%colocar%echar%someter%invertir%exponer%explicar%formular%plantear%ir%expresar%presentar%poner%hacer%decir
+put aside%poner aparte%rechazar
+putative%putativo
+put away%poner aparte%descartar%ahorrar
+put back%atrasar%restituir%retrasar%regresar%devolver%aplazar%volver%volver a poner
+put by%eludir
+put down%extinguir%humillar%degradar%sofocar%depositar%reprimir%inscribir%apuntar%bajar%disminuir%suprimir%poner
+put forward%proponer%presentar
+put in%insertar%interponer%dedicar%presentar
+Putnam%Putnam
+put-off%aplazamiento
+put off%quitarse%desanimar%posponer%disuadir%aplazar%salir
+put on%calzar%simular%montar%afectar%ponerse%poner
+put-on%falso%engaño%truco
+put out%asomar%extinguir%apagar%producir%sacar
+putrefaction%putridez%putrefacción
+putrefy%corromperse%pudrirse%pudrir
+putrescence%pudrición%pudrimiento%putrefacción
+putrescent%putrescente
+putrid%putrefacto%depravado%corrompido%podrido
+putridity%putridez
+putsch%golpe de estado
+putting%presentación
+put together%juntar%armar%confeccionar%montar%reunir%organizar%formar
+put to sleep%acostar
+putty%masilla%enmasillar
+put up%izar%subirse%montar%alzar%incitar%apostar%colocar%levantar%parar%aumentar%poner
+put up with%aguantar%soportar
+puzzle%acertijo%desconcertar%enredar%enigma%rompecabezas%perplejidad%embarazo%confundir
+puzzled%perplejo
+puzzlement%perplejidad%confusión
+puzzle out%descifrar
+puzzler%enigma
+puzzling%misterioso
+pyelonephritis%pielonefritis
+pygmy%pigmeo%enano
+pyjamas%pijama%piyama
+pylon%pilón%poste%torre
+pyogenic%piógeno
+pyramid%pirámide
+pyramidal%piramidal
+pyre%pira%hoguera
+Pyrenees%Pirineos
+pyrite%pirita
+pyrites%pirita
+pyrolysis%pirólisis
+pyromania%incendiarismo%piromanía
+pyromaniac%incendiario
+pyrometer%pirómetro
+pyrosis%pirosis
+pyrotechnic%pirotécnico
+pyrotechnics%pirotecnia%pirotécnica
+pyrotechnist%pirotécnico
+pyrotechny%pirotecnia
+Pyrrhic victory%victoria pírrica
+python%pitón
+pythoness%pitonisa
+Qingdao%Qingdao
+QT%QT
+qua%como
+quack%charlatán%matasanos%curandero
+quackery%curanderismo%charlatanería
+quacksalver%charlatán
+quad%cuadrángulo
+quadragenarian%cuadragenario
+quadrangle%cuadrángulo%cuadrilátero%patio
+quadrangular%cuadrangular
+quadrant%cuadrante%sector
+quadrat%cuadrado
+quadrate%cuadrado
+quadrennial%cuadrienal
+quadrennium%cuadrienio
+quadrilateral%cuadrilátero
+quadrille%cuadrilla
+quadrivalent%tetravalente
+quadroon%cuarterón
+quadruped%cuadrúpedo
+quadruple%cuádruplo%cuádruple
+quag%tremedal
+quaggy%cenagoso%pantanoso
+quagmire%tremedal%ciénaga%pantano
+quai%muelle%embarcadero%atracadero
+quail%codorniz
+quaint%extraño%pintoresco%raro%singular%curioso%original
+quake%trepidar%estremecerse%temblar%temblor%terremoto
+quaker%cuáquero
+quaking%temblón%temblante%temblador
+quaky%temblón%tembloroso
+qualifiable%calificable
+qualification%habilitación%calificación%idoneidad%aptitud%restricción%título%reserva%condición%capacidad
+qualified%capacitado%apto%calificado%idóneo%competente
+qualify%capacitar%habilitar%restringir%calificar%limitar%modificar
+qualifying%eliminatorio
+qualitative%cualitativo
+qualitative data%datos cualitativos
+qualitatively%cualitativo
+qualitative research%investigación cualitativa
+quality%cualidad%propiedad%clase%virtud%calidad
+quality certification%certificación de calidad
+quality circle%círculo de calidad
+quality control%control de calidad
+quality objective%objetivo de calidad
+quality of life%calidad de vida
+qualm%mareo%náusea%duda
+quandary%perplejidad%dilema%incertidumbre
+quantification%cuantificación
+quantify%cuantificar
+quantifying%que cuantifica%de cuantificación
+quantitative%cuantitativo
+quantitative analysis%análisis cuantitativo
+quantitative data%datos cuantitativos
+quantitative research%investigación cuantitativa
+quantity%cuantía%cantidad
+quantum%quantum%cantidad
+quantum chemistry%química cuántica
+quarantine%cuarentena
+quarantined%en cuarentena
+quarrel%reyerta%reñir%rifar%regañar%riña%contender%camorra%gresca%disputar%pelearse%querella%pelea%pleito%disputa%averiguar
+quarrelsome%peleón%rencilloso%pendenciero%pleitista
+quarries%canteras
+quarry%cantera%presa%caza%extraer
+quart%cuarta
+quarter%hospedar%acantonar%cuarta parte%cuartear%acuartelar%descuartizar%alojar%clemencia%cuartel%trimestre%barrio%vivienda%cuarta%cuarto
+quartering%descuartizamiento
+quarterly%trimestral
+quarter of an hour%cuarto de hora
+quarters%domicilio
+quartet%cuarteto
+quartette%cuarteto
+quartile%cuartil
+quarto%cuartilla
+quartz%cuarzo
+quash%sofocar%aplastar%ahogar%invalidar%revocar%reprimir%anular
+quasi%casi
+Quasimodo%Quasimodo
+quatercentenary%cuarto centenario
+quaternary%cuaternario
+Quaternary%Cuaternario
+quaver%vibrar%trinar%estremecerse%trino%temblar
+quay%desembarcadero%muelle
+queasily%mareado%con náuseas%revuelto
+queasiness%mareo
+queasy%nauseabundo
+Quebec%Quebec
+queen%dama%reina
+queen bee%abeja reina
+queenly%regio
+queer%extraño%excéntrico%estrafalario%desbaratar%raro%curioso
+queerness%rareza
+quell%domar%aquietar%sofocar%calmar%reprimir%mitigar
+quench%saciar%extinguir%aplacar%sofocar%calmar%apagar%mitigar
+quenchable%apagable
+quenching%extinción
+quenchless%inapagable%inextinguible
+queried%interrogado
+querulous%quejumbroso%quejicoso
+querulously%quejumbrosamente
+query%interrogante%preguntar%pregunta%cuestión
+query language%lenguaje de consulta
+quest%pesquisa%indagación%busca%búsqueda
+question%indagar%interrogación%interrogar%cuestionar%objeción%preguntar%examinar%duda%asunto%pregunta%problema%caso%cuestión
+questionable%dudoso%discutible
+questionary%cuestionario
+questioner%preguntador
+questionings%interrogatorios%cuestionamientos
+question mark%signo de interrogación
+questionnaire%cuestionario%encuesta
+queue%hilera%cola
+quibble%subterfugio
+quibbler%quisquilloso%melindroso
+Quiche%Quiche
+quick%perspicaz%viviente%despierto%aprisa%presto%agudo%animado%ágil%ligero%intenso%vivo%rápido%pronto%rápidamente
+quicken%vivificar%excitar%apresurar%revivir%animarse%apresurarse%resucitar%apretar%avivar%animar%acelerar
+quickening%aceleración
+quickest%el más rápido
+quick-fire%rápido
+quicklime%cal viva
+quickly%aprisa%ligero%pronto%rápidamente
+quickness%viveza%agudeza%prontitud%aceleración%rapidez
+quicksand%arenas movedizas
+quicksilver%azogue%mercurio
+quickstep%paso ligero
+quick-witted%listo
+quid%libra
+quiescence%quietud%tranquilidad
+quiescency%quietud%tranquilidad
+quiescent%quieto%silencioso%fijo
+quiet%sosegar%aquietar%quietud%quieto%sosegado%sosiego%callado%silencioso%reposo%calmar%tranquilo%quedo%calma%reservado%tranquilizar%tranquilidad%silencio%paz
+quieten%calmarse%acallar%calmar
+quietly%silenciosamente%calladamente%pasito%tranquilamente
+quietness%quietud%tranquilidad%silencio
+quietude%quietud%sosiego
+quietus%finiquito
+quill%cañón%cálamo%pluma
+quilt%edredón%acolchar%colcha
+quilted%acolchado
+quilting%acolchado
+quince%membrillo
+quincentenary%quinto centenario
+quinine%quinina
+Quinn%Quinn
+quinquagenarian%quincuagenario
+quinquennial%quinquenal
+quinquennium%quinquenio
+quinsy%angina
+quint%quinta
+quintal%quintal
+quintessence%quintaesencia
+quintessential%por excelencia%por antonomasia%prototípico
+quintet%quinteto
+quintette%quinteto
+quintuple%quíntuplo
+quintuplets%quintillizos
+quip%ocurrencia
+Quirinal Palace%Palacio del Quirinal
+quirky%raro
+quisling%traidor
+quit%dejar de%largarse%saldar%irse%marcharse%parar%abandonar%salir%pagar%terminar%dejar
+quite%enteramente%completamente%bastante%absolutamente%totalmente
+quittance%quitanza%descargo%recompensa%recibo%pago
+quitting%abandono%abandonando%saliendo%dejando
+quiver%aljaba%estremecerse%rehilar%vibrar%carcaj%parpadeo%palpitar%estremecimiento%temblar%temblor%vibración
+quivering%tembloroso%estremecimiento%temblor
+qui vive%qui vive%estar alerta
+quixotic%quijotesco
+quixotically%de manera quijotesca
+quizzical%zumbón%burlón%cómico%gracioso
+quod%chirona
+quondam%antiguo
+quota%cupo%contingente%cuota
+quotable%citable%digno de ser citado%sucinto
+quotation%citación%cita
+quotation marks%comillas
+quote%aducir%cita%citar%mencionar
+quotes%comillas
+quotidian%cotidiano%diario
+quotient%cociente
+rabbet%rebajo%ranura
+rabbi%rabí%rabino
+rabbit%conejo
+rabbit-hutch%conejera
+rabble%plebe%populacho%gentuza%canalla%chusma
+rabid%rabioso%furibundo%furioso%fanático
+rabidity%rabia
+rabies%hidrofobia%rabia
+raccoon%mapache
+raccoon dog%perro mapache
+race%linaje%estirpe%rodar%regatear%casta%competición%raza%correr%competir%carrera%curso%prueba
+racecourse%hipódromo%pista
+racehorse%caballo de carreras
+raceme%racimo
+racer%carrerista%corredor
+racetrack%corredera%pista
+raceway%pista de carreras
+Racha-Lechkhumi and Kvemo Svaneti%Racha-Lechjumi y Kvemo Svaneti
+rachis%raquis
+rachitic%raquítico
+racial%racial
+racial integration%integración racial
+racialism%racismo
+racialist%racista
+racier%más picante%más atrevido%más subido de tono
+raciness%vigor%brío
+racing%carrera
+racism%racismo
+racist%racista
+rack%espetera%bastidor%trasegar%atormentar%armero%perchero%percha%anaquel%estantería%torturar%estante%astillero
+racked%atormentado%sacudido
+racket%trapaza%trapacería%estrépito%raqueta%pala%estruendo%timo%jaleo%alboroto%estafa%ruido
+racketeer%timador%estafador%chantajista
+rackety%bullicioso%ruidoso
+racoon%mapache
+racquet%raqueta
+racy%picante%chispeante%animado%vivo
+rad%chévere%guay%padrísimo%estupendo
+radar%radar
+Radcliffe%Radcliffe
+radial%radiado%radial
+radian%radiante%radián
+radiance%fulgor%resplandor%esplendor%brillo%brillantez
+radiancy%fulgor%resplandor%esplendor%brillo%brillantez
+radiant%radiador%resplandeciente%radiante%brillante
+radiant energy%energía radiante
+radiantly%radiantemente
+radiate%radiar%irradiar%iluminar%difundir
+radiation%radiación
+radiation dose%dosis de radiación
+radiation effect%efecto de la radiación
+radiation monitoring%vigilancia de la radiación
+radiation poisoning%envenenamiento por radiación
+radiator%radiador
+radical%radical%raíz%fundamento%esencial%fundamental
+radicalism%radicalismo
+radicalize%radicalizar
+radically%radicalmente
+radicle%raicilla
+radio%radiofonía%radio
+radioactive%radioactivo%radiactivo
+radioactive emission%emisión radiactiva
+radioactive substance%sustancia radiactiva
+radioactive tracer%trazador radiactivo
+radioactivity%radioactividad
+radiocarbon dating%datación por radiocarbono
+radiogram%radiogramola
+radiograph%radiografía
+radiography%radiografía
+radioisotope%radioisótopo
+radiolocation%radiolocalización
+radiological%radiológico
+radiologist%radiólogo
+radiology%radiología
+radiometer%radiómetro
+radish%rabanillo%rábano
+radium%radio
+radius%radio
+radius of curvature%radio de curvatura
+radix%raíz%base
+radon%radón
+raffia%rafia
+raffish%disoluto
+raffle%rifa%sorteo
+raffled%rifado%sorteado
+raft%almadía%armadía%jangada%balsa
+rafter%viga
+raftsman%almadiero
+rag%pingajo%harapo%andrajo%jirón%trapo
+ragamuffin%galopín%pelagatos%granuja
+rag-and-bone-man%trapero
+rage%rugir%rabiar%enfurecerse%bramar%tronar%furor%furia%manía%ira%rabia%entusiasmo
+ragged%traposo%harapiento%andrajoso%áspero%accidentado%escabroso%roto%desigual
+raggedy%andrajoso%harapiento%hecho jirones
+raging%rabioso%furioso%vehemente%agudo%violento
+raglan%raglán
+ragout%guisado
+ragtag%canalla%chusma
+ragtime%ragtime
+Rahul%Rahul
+raid%razzia%asaltar%batida%redada%invadir%incursión%irrupción%asalto%correría%atacar%ataque
+raider%asaltante%invasor
+rail%pasamano%antepecho%baranda%barandilla%rail%riel%verja%carril%barra%barrera%vía
+railing%pasamano%baranda%barandilla%balaustrada%valla%barrera
+railroad%ferrocarril
+railroader%ferrocarrilero%ferroviario
+rail transport%transporte ferroviario
+railway%ferrocarril
+railwayman%ferrocarrilero%ferroviario
+railway station%estación de ferrocarril
+raiment%vestido%ropa
+rain%llover%nube%lluvia
+rainbow%arco iris
+raincoat%capote%impermeable
+rainer%más lluvioso
+rainfall%lluvia
+rainforest%bosque pluvial%bosque lluvioso%bosque tropical
+rain-gauge%pluviómetro
+rainier%más lluvioso
+raining%lloviendo%de lluvia
+rainproof%impermeable
+rainwater%agua de lluvia
+rainy%pluvioso%pluvial%lluvioso
+raise%solevantar%encaramar%empinar%encumbrar%enhestar%excitar%erguir%izar%entonar%enarbolar%edificar%criar%erigir%ascender%realzar%alzar%levantarse%originar%evocar%educar%localizar%cultivar%alza%subir%subida%suscitar%causar%levantar%elevar%reunir%parar%producir%llamar%promover%obtener%aumento%establecer%mejorar%poner%hacer
+raised%alzado%elevado
+raiser%cultivador%criador%productor
+raise up%alzar%levantar%elevar
+raisin%pasa
+raising%levantamiento
+rake%rastrillar%rascar%rascador%hurgón%rastra%libertino%rastrillo%calavera%raqueta%rastro
+raking%rastrillaje
+rakish%disoluto%libertino
+rale%estertor
+rallied%reunido%recabado
+rally%recobro%mitin%manifestarse%reunirse%restablecimiento%reunir%manifestación%reunión
+ram%martillo pilón%aries%martinete%morueco%dar contra%pisón%carnero%clavar%ariete%chocar
+Ramadan%ramadán
+ramble%vagar%divagar%pasear%paseo%correría
+rambled%paseado%deambulado%divagado
+rambler%viandante
+rambling%incoherente
+rambunctious%revoltoso
+ramification%ramificación
+ramify%ramificarse
+ramjet%estatorreactor
+rammed%embistió%embestido
+rammer%pisón
+rammish%arrecho%libidinoso
+Ramo%Ramo
+ramp%desnivel%rampa%declive
+rampage%furia%alboroto
+rampant%lozano%exuberante%desenfrenado%agresivo
+rampart%terraplén%muralla%baluarte
+ramrod%baqueta
+Ramsey%Ramsey
+ramshackle%ruinoso
+ranch%rancho%chacra%finca%hacienda%granja%estancia
+rancher%estanciero%ranchero
+ranchman%ranchero
+rancid%asqueroso%rancio
+rancidity%ranciedad%rancidez
+rancidness%ranciedad%rancidez
+rancor%inquina%encono%rencor
+rancorous%rencoroso
+rancour%inquina%encono%rencor
+random%fortuito%aleatorio%ocasional%casual%azar%acaso
+randomization%aleatorización
+random variable%variable aleatoria
+randy%rijoso%cachondo
+rang%llamado%sonado%timbrado
+range%cordillera%hilera%campo de tiro%dehesa%sierra%pasear%intervalo%fila%arreglar%ordenar%rango%gama%recorrido%extensión%autonomía%distancia%alcance%escala%línea%serie
+rangefinder%telémetro
+ranger%guardabosque%vagabundo
+Rangoon%Rangún
+rani%rani
+rank%lozano%maloliente%jerarquizar%graduación%clasificar%fila%ordenar%rango%dignidad%completo%categoría%turno%grado%condición%línea%estado%posición
+rank and file%tropa
+ranking%clasificación
+rankle%afligir%doler
+rankness%exuberancia%mal olor%enormidad
+ransack%desvalijar%saquear
+ransacked%registrado%saqueado
+ransom%redimir%rescatar%rescate
+rant%vociferar
+ranunculus%ranúnculo
+rap%golpear%llamada
+rapacious%rapaz%ávido
+rapacity%rapacidad%avidez
+rape%estupro%raptar%colza%violar%violación
+rapeseed%semilla de colza
+rapid%abrupto%aprisa%presto%rápido
+rapidity%prontitud%rapidez
+rapidly%rápidamente
+rapidness%prontitud
+rapids%rápido
+rapier%estoque
+rapine%saqueo
+rapist%violador
+rapper%golpeador
+rapport%relación
+rapprochement%acercamiento
+rapt%extático%absorto%ensimismado%transportado
+rapture%arrebato%rapto%éxtasis
+rapturous%extático%arrebatado%delirante%encantado
+rapturously%con entusiasmo%con embeleso
+rare%ralo%insigne%raro%excepcional%excelente
+rarefaction%rarefacción
+rarefy%enrarecer%rarefacer%refinar
+rarely%raramente
+rareness%raridad%rareza
+rarity%preciosidad%raridad%rareza%curiosidad
+rascal%galopín%bribón%granuja%pícaro%pillo%canalla
+rash%salpullido%sarpullido%erupción%arrebatado%imprudente%precipitado
+rashness%irreflexión%temeridad%imprudencia%precipitación
+rasp%escofina%rallar%raspador%rallador%limar
+raspberry%frambueso%frambuesa
+raspberry vinegar%vinagre de frambuesa
+rasper%escofina%raspador%rallador
+rat%desertor%canalla%rata%desertar
+ratable%imponible%apreciable
+ratchet%trinquete
+rate%tasar%valuar%cadencia%reprender%lote%clasificar%estimar%fila%tarifa%calificar%valer%apreciar%valorar%proporción%velocidad%ritmo%tasa%grado%impuesto%precio%valor%razón%tipo%tanto
+rateability%tributación
+rateable%imponible
+rated%evaluado%clasificado%catalogado
+ratepayer%contribuyente
+rater%apreciador
+rather%más bien%bastante%mejor%algo%antes%más
+ratification%confirmación%ratificación
+ratify%revalidar%ratificar%confirmar
+rating%justiprecio%valuación%tasación%marinero%valoración
+ratio%proporción%razón%relación%respecto
+ratiocinate%raciocinar%razonar
+ratiocination%raciocinación%raciocinio
+ration%ración%cupo
+rational%cuerdo%sensato%racional%razonable
+rationalism%racionalismo
+rationalist%racionalista
+rationality%racionalidad
+rationalization%racionalización
+rationalize%racionalizar
+rationalizing%racionalizando%razonando
+rationally%racionalmente
+rational number%número racional
+rationing%racionamiento
+rattan%rota
+rattle%traqueo%traquetear%castañetear%matraca%parlotear%traqueteo%matraquear%vibrar%carraca%sonajero%crujir
+rattlesnake%crótalo%serpiente de cascabel
+raucous%ronco%bronco
+ravage%estragar%desolar%asolamiento%pillar%asolar%estrago%destrozar%talar%saquear%arruinar%destruir
+rave%enfurecerse%devanear%desvariar%delirar
+ravel%enmarañar%desenredar%enredar
+raven%devorar%apresar%cuervo
+ravenous%famélico%voraz%hambriento%rapaz
+ravenously%vorazmente%con voracidad
+raver%fiestero
+ravine%hondonada%barranco%quebrada%garganta
+raving%desvarío%delirio%delirante
+ravings%delirio
+ravish%embelesar%raptar%arrebatar%robar%violar%forzar
+ravishing%arrebatador%encantador
+ravishment%arrobamiento%embeleso%éxtasis%violación
+raw%desollado%matadura%húmedo%bronco%inexperto%bozal%tosco%crudo%frío%puro%bruto%abierto
+raw material%materia prima
+raw milk%leche cruda
+raw milk cheese%queso de leche cruda
+rawness%crudeza
+ray%raya%rayo
+raze%arrasar%abatir%borrar
+razor%navaja
+razor blade%hoja de afeitar
+Rb%Rb
+reabsorb%reabsorber
+reach%largar%alargar%tramo%tocar%tender%abarcar%sección%envergadura%alcance%pasar%obtener%alcanzar%llegar%lograr%dar
+reachable%asequible%accesible
+reaches%alcances
+reaching%alcanzar%atravesar
+react%reaccionar
+reacted%reaccionado%respondido
+reaction%reacción
+reactionary%retrógrado%reaccionario
+reactionist%retrógrado%reaccionario
+reactivate%reactivar
+reactivated%reactivado
+reactivation%reactivación
+reactive%reactivo
+reactivity%reactividad
+reactor%reactor
+read%cursar%adivinar%aprender%leer%estudiar
+readability%legibilidad
+readable%legible
+read aloud%leer en voz alta
+reader%lector%corrector
+readily%fácilmente
+readiness%prontitud%agilidad%facilidad%disposición
+reading%recitación%disertación%leyenda%lección%interpretación%conferencia%lectura
+reading glasses%gafas de lectura
+reading room%sala de lectura
+readjust%reajustar
+readjustment%reajuste
+readmission%readmisión
+readout%indicación
+ready%aprestar%poner a punto%apercibir%contante%diestro%ágil%listo%vivo%efectivo%preparado%disponible%preparar%disponer%dispuesto%pronto
+reaffirm%reafirmar
+reagent%reactivo
+real%inmueble%sincero%legítimo%auténtico%verdadero%real
+realignment%realineación
+realism%realismo
+Realism%Realismo
+realist%realista
+realistic%práctico%realista
+reality%verdad%realidad
+realizable%realizable%factible
+realization%realización
+realize%llevar a cabo%percatarse%idear%comprender%entender%realizar%ver
+realized%dado cuenta
+realizing%dándose cuenta
+reallocate%redistribuir
+reallocated%redistribuido%reasignado%repartido de nuevo
+reallocation%redistribución
+really%propiamente%verdaderamente%efectivamente%realmente
+realm%reino%dominio%esfera%campo%región
+real time%tiempo real
+ream%montón
+reamer%escariador
+reanimate%reanimar
+reap%segar%recolectar%cosechar%recoger
+reaper%segador%segadora
+reaping-hook%hoz
+reappear%reaparecer%resurgir
+reappoint%volver a designar%volver a nombrar
+reappointment%reasignación
+reappraise%revaluar
+rear%parte posterior%parte trasera%trasero%retaguardia%criar%erigir%educar%zaga%cultivar%levantar%posterior%fondo
+rear admiral%contraalmirante
+rearguard%retaguardia
+rearm%rearmar
+rearrange%reorganizar
+rearranged%reorganizar
+rearrangements%reorganización%reestructuración
+rear up%encabritarse
+rearview mirror%espejo retrovisor
+reason%razonar%juicio%causa%ocasión%motivo%razón%lugar
+reasonable%módico%arreglado%juicioso%prudencial%sensato%racional%razonable
+reasonableness%sensatez%juicio
+reasonably%razonablemente
+reasoning%raciocinio%razonamiento
+reasonless%desrazonable%irracional
+reassemble%reensamblar
+reassert%reafirmar
+reassurance%aseguro
+reassure%sosegar%aquietar%tranquilizar
+reassuring%sedante%tranquilizante%tranquilizador
+reave%raptar%saquear
+rebarbative%repugnante
+rebate%descontar%descuento%rebaja%rebajar%deducir%disminución%reducción
+rebel%sublevarse%rebelarse%rebelde%pronunciarse
+rebellion%rebeldía%sublevación%rebelión
+rebellious%insubordinado%díscolo%revoltoso%rebelde
+rebelliously%rebeldemente%con rebeldía
+rebind%reencuadernar
+rebirth%renacimiento
+rebound%rebotar%resurtir%rebote%bote%repercutir%salto%repercusión%resaltar
+rebuff%repulsar%desairar%desaire%repulsa%rechazar%rechazo
+rebuild%reedificar%reconstruir
+rebuilding%reedificación%reconstrucción
+rebuilt%reconstruido%reparado%restaurado
+rebuke%increpación%reprensión%increpar%reprobar%reprender%desaprobar%reprimenda%censurar%reproche%censura
+rebuked%regañado
+rebus%jeroglífico
+rebut%rebatir%invalidar%refutar%rechazar
+recalcitrant%recalcitrante%rebelde%reacio
+recalculated%recalculado
+recall%recordación%amonestar%rememorar%revocación%revocar%anular%anulación%retirar%llamada%retirada%recordar
+recant%retractar%retractarse%renunciar
+recantation%retracto%retractación
+recap%recapitulación%resumen
+recapitulate%recapitular%resumir
+recapitulated%recapitulado
+recapitulation%recapitulación%resumen
+recapture%reconquista
+recast%refundir%rehacer%reformar
+recede%desistir%retirarse%retroceder%bajar
+receipt%quitanza%comprobante%abono%receta%recibí%recibo%recepción%fórmula
+receipts%entrada
+receive%receptar%encubrir%cobrar%ingresar%percibir%sufrir%acoger%admitir%escuchar%recibir%obtener%tomar%aceptar
+received%admitido
+receiver%recibidor%receptáculo%auricular%destinatario%receptor
+receiving%recepción
+recency%novedad
+recension%recensión
+recent%fresco%moderno%reciente%nuevo
+recently%hace poco%recién%últimamente%recientemente
+receptacle%receptáculo%recipiente
+reception%recibimiento%recepción%admisión%ingreso%aceptación%acogida
+receptionist%recepcionista
+receptiveness%receptividad
+receptivity%receptividad
+recess%nicho%retiro%hueco%recreo%descanso%suspensión
+recession%recesión
+recessive%recesivo
+rechargeable%recargable
+recheck%reconfirmar%volver a comprobar
+rechristen%rebautizar
+recidivism%reincidencia
+recidivist%reincidente
+recipe%receta
+recipient%recibidor%recipiente%destinatario%beneficiario
+reciprocal%recíproco%mutuo
+reciprocal pronoun%pronombre recíproco
+reciprocate%alternar%corresponder
+reciprocating%alternativo%recíproco
+reciprocation%reciprocación%reciprocidad
+reciprocity%mutualidad%reciprocidad
+recirculation%recirculación
+recital%narración
+recitation%recitación
+recitative%recitativo%recitado
+recite%declamar%recitar
+recited%recitado
+reciter%recitador
+reciting%recitación%recitando
+reckless%inconsiderado%atolondrado%peligroso%temerario
+recklessness%inconsideración%imprudencia
+reckon%numerar%computar%estimar%calcular%contar%considerar
+reckoner%calculador
+reckoning%ajuste de cuentas%cálculo
+reclaim%amansar%domesticar%regenerar%reclamar%reformar%recuperar
+reclamation%reclamación
+recline%descansar%apoyar
+recliner%sillón reclinable
+recluse%recluso%solitario
+reclusive%solitario%aislado
+recognition%reconocimiento
+recognizable%reconocible
+recognizance%fianza
+recognize%confesar%admitir%conocer%reconocer
+recollect%acordarse%recordar
+recollection%recolección%recuerdo
+recombinant DNA%ADN recombinante
+recombinant vaccine%vacuna recombinante
+recommence%reanudar
+recommend%encarecer%certificar%aconsejar%encargar%recomendar
+recommendation%recomendación
+recommendatory%recomendatorio
+recommit%comprometerse nuevamente
+recompense%galardonar%remunerar%recompensar%recompensa
+recon%de reconocimiento
+reconcile%bienquistar%componer%reconciliar%conciliar
+reconcilement%reconciliación%conciliación
+reconciliation%reconciliación%conciliación
+recondite%recóndito%abstruso%secreto
+recondition%reacondicionar%reparar
+reconnaissance%descubierta%sondeo%exploración%reconocimiento
+reconnect%reconectar
+reconnoitre%reconocer
+reconsider%reconsiderar
+reconstitute%reconstituir
+reconstituted%reconstituido
+reconstruct%reedificar%reconstituir%reconstruir
+reconstruction%reedificación%reconstitución%reconstrucción
+record%récord%fichar%anotación%grabar%grabación%anotar%tablero%disco%apunte%inscribir%apuntar%inscripción%registrar%acta%marca%expediente%protocolo%registro%nota%documento
+recorder%archivero%grabadora
+record-holder%recordman
+recording%grabación%registro
+record-player%tocadiscos
+records%archivo
+recount%relatar%referir%contar
+recoupment%compensación
+recourse%refugio%regreso%salida%recurso
+recover%reponerse%recobrarse%sanar%rehacerse%cobrarse%reintegrarse%reconstituir%rescatar%curarse%restablecerse%reconquistar%recuperarse%recobrar%reivindicar%curar%cobrar%recuperar
+recoverable%cobrable
+recovery%recobro%convalecencia%restablecimiento%recuperación
+recreate%recrear%reproducir
+recreation%recreación%entretenimiento%recreo
+recreative%recreativo
+recriminate%recriminar
+recrimination%recriminación
+recross%cruzar de nuevo%segundo interrogatorio a testigos
+recrudescence%recrudescencia
+recruit%alistar%novato%enganchar%recluta%reclutar%restablecer
+recruited%reclutado%contratado
+recruitment%reclutamiento
+rectal%rectal
+rectangle%rectángulo
+rectangular%rectangular
+rectangular apse%ábside rectangular
+rectangular coordinates%coordenadas rectangulares
+rectifiable%rectificable
+rectification%rectificación%corrección%enmienda
+rectified%rectificado
+rectifier%rectificador
+rectify%subsanar%enmendar%rectificar%justificar%corregir
+rectilinear%rectilíneo
+rectitude%rectitud
+recto%folio recto
+rector%rector
+rectory%casa del párroco%rectoría
+rectum%recto
+recumbent%yacente%acostado
+recuperate%reponerse%rehacerse%restablecerse%recuperarse%recuperar
+recuperation%recobro%restablecimiento%recuperación
+recuperative%recuperativo
+recur%repetirse%volver
+recurrence%redoble%repetición
+recurrent%recurrente%repetido%periódico
+recursive%recursiva
+recursive acronym%acrónimo recursivo
+recursive Bayesian estimation%estimación bayesiana recursiva
+recycled paper%papel reciclado
+recycling%reciclaje
+red%enrojecido%colorado%tinto%encarnado%rojo
+redact%redactar
+redaction%redacción
+redactor%redactor
+red blood cell%glóbulo rojo
+red-blooded%viril%vigoroso
+redbrick%de ladrillo rojo
+redden%rojear%enrojecerse%ponerse colorado%arrebolar%embermejar%ruborizarse%enrojecer%colorear
+redder%ordenar
+reddish%rojizo
+redeem%desempeñar%redimir%expiar%amortizar%rescatar%cancelar%compensar%cumplir
+redeemable%reembolsable
+redeemer%redentor%salvador
+redefinition%redefinición
+redemption%desempeño%redención%amortización%rescate%cumplimiento
+redemptive%redentor
+redesign%rediseño%rediseñar
+red fox%zorro rojo
+redhead%pelirrojo
+redheaded%pelirrojo
+redintegrate%renovar%restablecer
+redirected%redireccionado%reconducido
+rediscovery%redescubrimiento
+redistribute%redistribuir
+redistributed%redistribuido
+redistribution%redistribución
+red lead%minio
+red list%lista roja
+redness%rojura%rojez%rubor
+redo%rehacer%repetir
+redolence%fragancia%aroma%perfume
+redolent%oloroso%fragante
+redouble%reduplicar%redoblar
+redoubt%reducto
+redoubtable%temible%formidable
+redoubted%temible
+redound%refluir
+redraw%redibujar
+redrawing%redibujo%rediseño%recomposición
+redress%enderezar%reajustar%deshacer%enmendar%rectificar%reparar%remediar%reparación%corrección%compensar%remedio%corregir%compensación%enmienda
+Red Sea%Mar Rojo
+redstart%colirrojo
+red tide%marea roja
+reduce%achicar%minorar%descontar%menguar%cercenar%degradar%rebatir%moderar%mermar%aminorar%menoscabar%rebajar%bajar%reducirse%disminuir%limitar%reducir
+reduced%reducido
+reducer%reductor
+reducible%reducible
+reduction%rebaja%degradación%disminución%reducción
+redundance%superfluidad%redundancia%exceso
+redundancy%superfluidad%redundancia%exceso
+redundant%redundante%superfluo%excedente%excesivo
+reduplicate%reduplicar%redoblar
+reduplication%reduplicación
+re-echo%repetir
+reed%saeta%junco%caña
+re-educate%reeducar
+re-education%reeducación
+reef%arrecife%roca%escollo
+reek%ahumar%humear%apestar%mal olor%heder%oler%vahear%vaho%hediondez%hedor%tufo%humo
+reel%devanadera%devanar%tartalear%tambalear%bobina%carrete%titubear%rollo%tambalearse%vacilar
+reelection%reelección
+reengineering%reingeniería
+re-enter%reingresar
+re-entry%reentrada%reingreso
+Reese%Reese
